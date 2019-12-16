@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/map/map2'
+import active from './es-six-lectures/for-each/for-each2'
 
 class App extends React.Component {
   componentDidMount(){
