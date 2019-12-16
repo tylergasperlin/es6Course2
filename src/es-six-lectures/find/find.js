@@ -1,6 +1,6 @@
 
 
-//find
+//find = use when you have a list of objects and you want to find a particular object instead of loop
 var users = [
     {name: 'Jill'},
     {name: 'Alex'},
