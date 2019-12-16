@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/for-each/for-each2'
+import active from './es-six-lectures/every-some/every-some'
 
 class App extends React.Component {
   componentDidMount(){
