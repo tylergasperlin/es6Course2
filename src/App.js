@@ -9,8 +9,8 @@ class App extends React.Component {
   render(){
     return (
       <div className="App" style={{marginTop: '50vh', color:'darkGreen'}}>
-        Tyler's App Runs Code! <br/>
-        See Console for Code :)
+        Tyler's App Runs ES6 Code! <br/>
+        See Console for ES6 Code :)
       </div>
     );
   }
