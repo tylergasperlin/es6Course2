@@ -1,6 +1,7 @@
 
 
 //filter
+//user filter when you want to get a list of objects that contain a certain property
 var products = [
    {name: 'cucumber', type: 'vegetable'},
    {name: 'banana', type: 'fruit'},
