@@ -1,3 +1,7 @@
+
+//use of every
+//use every when you want to look through an entire array and determine if an object meets a criteria
+//every will return a single value - in this example true or false
 var computers = [
     {name: 'Apple', ram: 24},
     {name: 'Compaq', ram: 4},
@@ -7,10 +11,6 @@ var computers = [
 
 var allComputersCanRunProgram = true;
 var onlySomeComputersCanRunProgram = false;
-
-
-
-
 
 const active = () =>{
     console.log('old way!')
