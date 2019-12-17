@@ -1,11 +1,11 @@
 
-const Field = value =>{
+function Field(value){
     this.value = value
 }
 
 const active = () =>{
 
-    Field.prototype.validate = () => {
+    Field.prototype.validate = function() {
         return this.value.length > 0
     }
     
