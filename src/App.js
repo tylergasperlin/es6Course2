@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/every-some/every-some4'
+import active from './es-six-lectures/reduce/reduce3'
 
 class App extends React.Component {
   componentDidMount(){
