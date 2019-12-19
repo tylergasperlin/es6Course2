@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/reduce/reduce3'
+import active from './es-six-lectures/arrow-functions/arrow-functions'
 
 class App extends React.Component {
   componentDidMount(){
@@ -14,7 +14,6 @@ class App extends React.Component {
       </div>
     );
   }
-
 }
 
 export default App;
