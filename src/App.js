@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/arrow-functions/arrow-functions'
+import active from './es-six-lectures/arrow-functions/arrow-functions3.5'
 
 class App extends React.Component {
   componentDidMount(){
