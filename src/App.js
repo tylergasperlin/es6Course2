@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/default-arguments/default-arguments2'
+import active from './es-six-lectures/rest-spread/rest-spread'
 
 class App extends React.Component {
   componentDidMount(){
