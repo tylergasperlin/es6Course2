@@ -1,6 +1,6 @@
 
 
-
+//rest operator
 const active = () =>{
 
     function addNumbers(numbers){
@@ -12,8 +12,8 @@ const active = () =>{
     )
 
     
-    console.log('lets spread')
-    //lets spread
+    console.log('lets rest')
+    //lets rest
     //... = rest operator 
     //numbers is unknown 
     //capture arguments and put into the numbers array
