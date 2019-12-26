@@ -1,6 +1,7 @@
 
 
-//desctructing array practical
+//this is how to create classes pre es6
+//see classes 2 for the es6 way
 const active = () =>{
     console.error('old way')
     function Car(options) {
