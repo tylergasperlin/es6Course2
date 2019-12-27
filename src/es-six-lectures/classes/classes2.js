@@ -20,6 +20,21 @@ const active = () =>{
     console.log(car)
     console.log(car.drive())
 
+
+    //inheritance
+    class Toyota extends Car{
+        constructor(options){
+            super(options)
+            this.color = options.color
+        }
+        honk(){
+            return 'beep'
+        }
+    }
+    const toyota = new Toyota(({color:'red', title:'daily driver'}))
+    console.log(toyota.honk())
+    console.log(toyota.color)
+    console.log(toyota.drive())
 }
 
 
