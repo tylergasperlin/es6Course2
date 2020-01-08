@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import active from './es-six-lectures/destructuring/destructuring6'
+import active from './es-six-lectures/generators/generators2'
 
 class App extends React.Component {
   componentDidMount(){
